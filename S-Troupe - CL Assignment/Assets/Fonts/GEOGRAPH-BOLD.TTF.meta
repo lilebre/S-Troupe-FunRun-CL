@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 85dcd4899704101408f406cd55218dc9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Geograph
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e493af1e536ccbe4c8c0e5609d71718e, type: 3}
+  - {fileID: 12800000, guid: 2520564e6f3593f44a1cc6ef3d93ab75, type: 3}
+  - {fileID: 12800000, guid: 129f6415852f93f4ebe0634e5a891aff, type: 3}
+  - {fileID: 12800000, guid: a1fa4048a5db3d24c89d0be1d98c265e, type: 3}
+  - {fileID: 12800000, guid: e1fdafb0b9b468e4f8081b3f8887ff1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
